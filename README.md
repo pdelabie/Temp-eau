@@ -9,4 +9,5 @@
 
 ### Data sources
 Open Data : [Eau-potable]([https://www.data.gouv.fr/fr/datasets/repartition-des-potentiels-de-gaz-verts-a-horizon-2050-par-departement/](https://www.data.gouv.fr/fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune/)https://www.data.gouv.fr/fr/datasets/resultats-du-controle-sanitaire-de-leau-distribuee-commune-par-commune/) *(Data.gouv.fr)*
+<br>
 *Les données sont préalablement filtrées sur le département de l'Indre et Loire (37), et datent de Novembre 2023.
